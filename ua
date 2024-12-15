@@ -54,7 +54,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr1---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2y.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2d.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr1---sn-3tp8nu5g-3c2ee.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -164,7 +164,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
-0.0.0.0 play.google.com
+#0.0.0.0 play.google.com
 
 #   /можливо реклама youtube/
 #0.0.0.0 jnn-pa.googleapis.com
