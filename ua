@@ -31,6 +31,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.schulist.link
 0.0.0.0 cpm.smoads.com
 0.0.0.0 srv224.com
+0.0.0.0 circuitbasics.com/wp-content
 
 #  /google/
 0.0.0.0 googlesyndication.com
