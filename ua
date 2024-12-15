@@ -40,6 +40,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 googleadservices.com
 0.0.0.0 fonts.googleapis.com
+0.0.0.0 rr4---sn-3tp8nu5g-ig3z.googlevideo.com
 
 # /doubleclick.net/
 0.0.0.0 adclick.g.doubleclick.net
