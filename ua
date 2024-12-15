@@ -118,7 +118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr4---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr4---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 rr4---sn-3tp8nu5g-3c2e.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr4---sn-3tp8nu5g-3c2z.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -133,7 +133,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 rr5---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr5---sn-3tp8nu5g-3c2d.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr5---sn-3tp8nu5g-3c2ee.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -167,7 +167,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 play.google.com
 
 #   /можливо реклама youtube/
-0.0.0.0 jnn-pa.googleapis.com
+#0.0.0.0 jnn-pa.googleapis.com
 #0.0.0.0 yt3.ggpht.com
 
 #   /doubleclick.net/
