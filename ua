@@ -36,6 +36,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
 
 # /doubleclick.net/
 0.0.0.0 adclick.g.doubleclick.net
