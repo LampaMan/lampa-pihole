@@ -64,7 +64,7 @@ ff02::3 ip6-allhosts
 #   /google/
 0.0.0.0 googleadservices.com
 0.0.0.0 fonts.googleapis.com
-0.0.0.0 
+0.0.0.0 accounts.youtube.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -88,7 +88,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr1---sn-3tp8nu5g-3c2y.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2d.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2ee.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr1---sn-3tp8nu5g-3c2s.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -154,7 +154,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 rr4---sn-3tp8nu5g-3c2z.googlevideo.com # можливо вадливе для завантаження відео
 0.0.0.0 rr4---sn-3tp8nu5g-3c2d.googlevideo.com
 0.0.0.0 rr4---sn-3tp8nu5g-3c26.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr4---sn-3tp8nu5g-3c2ee.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
