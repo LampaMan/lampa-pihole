@@ -6,9 +6,9 @@
 # Date: 19 November 2024 21:35:37 (UTC)
 # Number of unique domains: 121,628
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
+# Fetch the latest version of this file: https://raw.githubusercontent.com/LampaMan/lampa-pihole/refs/heads/main/ua
+# Project home page: https://github.com/LampaMan/lampa-pihole/refs/heads/main/ua
+# 
 #
 # ===============================================================
 
@@ -39,6 +39,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 googleadservices.com
+0.0.0.0 fonts.googleapis.com
 
 # /doubleclick.net/
 0.0.0.0 adclick.g.doubleclick.net
