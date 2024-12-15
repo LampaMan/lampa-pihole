@@ -44,6 +44,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 
+
+#   /ua сайти з рекламою в плеері/
+0.0.0.0 ads.go2net.com.ua
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+
 #   /googlesyndication/
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
