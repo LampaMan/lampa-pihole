@@ -31,13 +31,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.schulist.link
 0.0.0.0 cpm.smoads.com
 0.0.0.0 srv224.com
-0.0.0.0 circuitbasics.com/wp-content
+0.0.0.0 circuitbasics.com
 
 #  /google/
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleadservices.com
 
 # /doubleclick.net/
 0.0.0.0 adclick.g.doubleclick.net
