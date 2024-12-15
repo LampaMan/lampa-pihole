@@ -44,18 +44,23 @@ ff02::3 ip6-allhosts
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 
 
-#   /можливо реклама youtube/
+#   /реклама youtube/
 0.0.0.0 r1---sn-3tp8nu5g-vqne.googlevideo.com
 0.0.0.0	r1---sn-3tp8nu5g-v1iz.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 r2---sn-3tp8nu5g-v1iz.googlevideo.com
 0.0.0.0 rr2---sn-3tp8nu5g-ig3z.googlevideo.com
+0.0.0.0 rr2---sn-3tp8nu5g-3c26.googlevideo.com
 0.0.0.0 rr3---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0	rr3---sn-3tp8nu5g-3c2l.googlevideo.com
 0.0.0.0 rr4---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 
 0.0.0.0 rr5---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr5---sn-3tp8nu5g-3c2d.googlevideo.com
+0.0.0.0 rr6---sn-3tp8nu5g-3c2e.googlevideo.com
+
+#   /можливо реклама youtube/
+0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 yt3.ggpht.com
 
 #   /doubleclick.net/
