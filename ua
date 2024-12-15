@@ -47,12 +47,12 @@ ff02::3 ip6-allhosts
 
 #   /ua сайти з рекламою в плеері/
 0.0.0.0 ads.go2net.com.ua
+0.0.0.0 cdn.spylees.com
+0.0.0.0 ashdi.vip
 0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 jk19ocmjeoyql3tj.ashdi.vip
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 ma.spylees.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
