@@ -119,7 +119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr2---sn-3tp8nu5g-3c26.googlevideo.com
 0.0.0.0 rr2---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 rr2---sn-3tp8nu5g-3c2z.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr2---sn-3tp8nu5g-3c2l.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -153,7 +153,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr4---sn-3tp8nu5g-3c2e.googlevideo.com
 #0.0.0.0 rr4---sn-3tp8nu5g-3c2z.googlevideo.com # можливо вадливе для завантаження відео
 0.0.0.0 rr4---sn-3tp8nu5g-3c2d.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr4---sn-3tp8nu5g-3c26.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -182,7 +182,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 rr6---sn-3tp8nu5g-3c2e.googlevideo.com
 0.0.0.0 rr6---sn-3tp8nu5g-3c2ee.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr6---sn-3tp8nu5g-3c2l.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
