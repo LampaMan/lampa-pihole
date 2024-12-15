@@ -53,7 +53,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jk19ocmjeoyql3tj.ashdi.vip
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 ma.spylees.com
-0.0.0.0 gstatic.com
+#0.0.0.0 gstatic.com
 0.0.0.0 cdn.servetraff.com
 0.0.0.0 gdeua.hit.gemius.pl
 0.0.0.0 
