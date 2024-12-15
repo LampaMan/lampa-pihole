@@ -32,16 +32,49 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpm.smoads.com
 0.0.0.0 srv224.com
 0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 
 #   /googlesyndication/
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 
 #   /google/
 0.0.0.0 googleadservices.com
 0.0.0.0 fonts.googleapis.com
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 
 
 #   /реклама youtube/
@@ -84,7 +117,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 rr2---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr2---sn-3tp8nu5g-3c26.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr2---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -101,7 +134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr3---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0	rr3---sn-3tp8nu5g-3c2l.googlevideo.com
 0.0.0.0	rr3---sn-3tp8nu5g-3c26.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr3---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -118,8 +151,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr4---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr4---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 rr4---sn-3tp8nu5g-3c2e.googlevideo.com
-0.0.0.0 rr4---sn-3tp8nu5g-3c2z.googlevideo.com
-0.0.0.0 
+#0.0.0.0 rr4---sn-3tp8nu5g-3c2z.googlevideo.com
+0.0.0.0 rr4---sn-3tp8nu5g-3c2d.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -134,8 +167,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr5---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr5---sn-3tp8nu5g-3c2d.googlevideo.com
 0.0.0.0 rr5---sn-3tp8nu5g-3c2ee.googlevideo.com
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 rr5---sn-3tp8nu5g-3c2z.googlevideo.com
+0.0.0.0 rr5---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
