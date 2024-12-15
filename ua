@@ -33,13 +33,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 srv224.com
 0.0.0.0 
 
-#   /google/
+#   /googlesyndication/
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+
+#   /google/
 0.0.0.0 googleadservices.com
 0.0.0.0 fonts.googleapis.com
+0.0.0.0 
 
 #   /можливо реклама youtube/
 0.0.0.0 rr4---sn-3tp8nu5g-ig3z.googlevideo.com 
