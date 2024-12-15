@@ -25,20 +25,23 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 
 # ===============================================================
 
 0.0.0.0 s.schulist.link
 0.0.0.0 cpm.smoads.com
 0.0.0.0 srv224.com
-0.0.0.0 googleads.g
+
+#  /google/
+0.0.0.0 googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
 
 # /doubleclick.net/
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 doubleclick.net
-0.0.0.0 
+0.0.0.0 g.doubleclick.net
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
