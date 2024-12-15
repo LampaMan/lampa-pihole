@@ -33,22 +33,25 @@ ff02::3 ip6-allhosts
 0.0.0.0 srv224.com
 0.0.0.0 
 
-#  /google/
+#   /google/
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 googleadservices.com
 0.0.0.0 fonts.googleapis.com
-0.0.0.0 rr4---sn-3tp8nu5g-ig3z.googlevideo.com #можливо реклама youtube
+
+#   /можливо реклама youtube/
+0.0.0.0 rr4---sn-3tp8nu5g-ig3z.googlevideo.com 
 0.0.0.0 rr3---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0	rr3---sn-3tp8nu5g-3c2l.googlevideo.com
 0.0.0.0 rr2---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr5---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 r1---sn-3tp8nu5g-vqne.googlevideo.com
 0.0.0.0 r2---sn-3tp8nu5g-v1iz.googlevideo.com
+0.0.0.0 yt3.ggpht.com
 
-# /doubleclick.net/
+#   /doubleclick.net/
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 doubleclick.net
