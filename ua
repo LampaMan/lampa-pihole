@@ -40,9 +40,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
+0.0.0.0 schulist.link
+0.0.0.0 
+0.0.0.0 bashirian.biz
+
+
+#   /pornhub/
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 a.adtng.com
+0.0.0.0 eg-cdn.trafficjunky.net
 
 
 #   /ua сайти з рекламою в плеері/
@@ -103,7 +125,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr1---sn-3tp8nu5g-3c2d.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2ee.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2s.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr1---sn-3tp8nu5g-3c2z.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -197,7 +219,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr6---sn-3tp8nu5g-3c2e.googlevideo.com
 0.0.0.0 rr6---sn-3tp8nu5g-3c2ee.googlevideo.com
 0.0.0.0 rr6---sn-3tp8nu5g-3c2l.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr6---sn-3tp8nu5g-3c2d.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
