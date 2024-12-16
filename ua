@@ -78,7 +78,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 gstatic.com
 0.0.0.0 cdn.servetraff.com
 0.0.0.0 gdeua.hit.gemius.pl
-0.0.0.0 
+0.0.0.0 reichelcormier.bid
 
 #   /googlesyndication/
 0.0.0.0 googlesyndication.com
