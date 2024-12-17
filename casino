@@ -1,0 +1,25 @@
+# Title: lampaman4ik
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 19 November 2024 21:35:37 (UTC)
+# Number of unique domains: 121,628
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/LampaMan/lampa-pihole/refs/heads/main/ua
+# Project home page: https://github.com/LampaMan/lampa-pihole/refs/heads/main/ua
+# 
+#
+# ===============================================================
+
+# ===============================================================
+
+
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 start.gorilla.ua
+0.0.0.0 gorilla.ua
