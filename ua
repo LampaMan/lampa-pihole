@@ -58,7 +58,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
-0.0.0.0 
+0.0.0.0 embeddedads.es6.min.js
 0.0.0.0 etahub.com
 0.0.0.0 static.trafficjunky.com
 #0.0.0.0 ei.phncdn.com
