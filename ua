@@ -56,7 +56,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
-0.0.0.0 
+0.0.0.0 evtubescms.phncdn.com
 0.0.0.0 z.cdn.adtarget.market
 0.0.0.0 embeddedads.es6.min.js
 0.0.0.0 etahub.com
