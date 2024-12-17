@@ -56,14 +56,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
-0.0.0.0 evtubescms.phncdn.com
+#0.0.0.0 evtubescms.phncdn.com
 0.0.0.0 z.cdn.adtarget.market
 0.0.0.0 embeddedads.es6.min.js
 0.0.0.0 etahub.com
 0.0.0.0 static.trafficjunky.com
 #0.0.0.0 ei.phncdn.com
 0.0.0.0 ei.phncdn.com/www-static
-#0.0.0.0 web.static.mmcdn.com
+0.0.0.0 web.static.mmcdn.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 pix-cdn77.trafficjunky.net
