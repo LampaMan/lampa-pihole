@@ -59,8 +59,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 etahub.com
+0.0.0.0 static.trafficjunky.com
 #0.0.0.0 ei.phncdn.com
 0.0.0.0 pix-cdn77.trafficjunky.net
 0.0.0.0 a.adtng.com
