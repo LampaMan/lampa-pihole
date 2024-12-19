@@ -123,7 +123,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	r1---sn-3tp8nu5g-v1iz.googlevideo.com
 0.0.0.0 
 0.0.0.0 
-0.0.0.0 rr1---sn-3tp8nu5g-ig3z.googlevideo.com
+#0.0.0.0 rr1---sn-3tp8nu5g-ig3z.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2y.googlevideo.com
 0.0.0.0 rr1---sn-3tp8nu5g-3c2d.googlevideo.com
