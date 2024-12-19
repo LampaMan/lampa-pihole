@@ -140,9 +140,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 r2---sn-3tp8nu5g-afvs.googlevideo.com
-0.0.0.0 r2---sn-3tp8nu5g-v1iz.googlevideo.com
+0.0.0.0 r2---sn-3tp8nu5g-afvz.googlevideo.com
 0.0.0.0 r2---sn-3tp8nu5g-vqnz.googlevideo.com
-0.0.0.0 
+0.0.0.0 r2---sn-3tp8nu5g-v1iz.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -160,7 +160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr2---sn-3tp8nu5g-3c2e7.googlevideo.com
 0.0.0.0 rr2---sn-3tp8nu5g-3c2z.googlevideo.com
 0.0.0.0 rr2---sn-3tp8nu5g-3c2l.googlevideo.com
-0.0.0.0 
+0.0.0.0 rr2---sn-3tp8nu5g-3c2ee.googlevideo.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
