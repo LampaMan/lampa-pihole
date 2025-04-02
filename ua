@@ -104,7 +104,7 @@ ff02::3 ip6-allhosts
 #   /google/
 0.0.0.0 googleadservices.com
 0.0.0.0 fonts.googleapis.com
-0.0.0.0 accounts.youtube.com
+# 0.0.0.0 accounts.youtube.com   #акаунт
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
