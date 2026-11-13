@@ -33,7 +33,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 srv224.com
 0.0.0.0 o90235.ingest.sentry.io
 0.0.0.0 stat.hdvbua.pro
-0.0.0.0 
+0.0.0.0 s.mirdox.xyz
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
